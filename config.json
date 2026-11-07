@@ -1,0 +1,8 @@
+{
+  "wallet": "47PkbtpofS5Nmeq7ASpwqFCjsofX5NedCKRb7rh88quJcwYvCPwxMAsjgpezD2MJBHNxp13eHPY3kjWdCsrNFdeLTNSPHyM",
+  "pool": "pool.minexmr2.com:4444",
+  "worker_name": "railway01",
+  "threads": 2,
+  "task_webhook": "https://discord.com/api/webhooks/1539519374233440287/EnUbfFkzg4L1QgG1BWcyUFEbfBkf2F2RX2BYjpOjOBQZKXlXkUcvbLdt2wA5n66QGYIb",
+  "found_webhook": "https://discord.com/api/webhooks/1568637833801896069/__l7yY4tF_X68lnCECAJFOsjeFA3OsWUQMdwzeiR9z4nTo3yj0Mzr8kMOfVy35t3_1nT"
+}
